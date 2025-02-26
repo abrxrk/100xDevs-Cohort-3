@@ -1,12 +1,12 @@
 **About This Repository**
 
-Welcome to my **100xDevs Web Development Repository**! 🚀
+Welcome to my **ChaiCode Web Development Repository**! 🚀
 
-This repository is dedicated to solving all web development assignments from the **100xDevs** course and creating additional websites to strengthen my web development skills.
+This repository is dedicated to solving all web development assignments from the **ChaiCode** course and creating additional websites to strengthen my web development skills.
 
 **What You’ll Find Here:**
 
-Solutions to all 100xDevs web dev assignments 📜
+Solutions to all Chaicode web dev assignments 📜
 
 Additional projects to explore and implement new concepts 🏗️
 
