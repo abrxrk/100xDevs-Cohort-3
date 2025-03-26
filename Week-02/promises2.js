@@ -12,3 +12,4 @@ function readFilePromisified(){
 }
 
 readFilePromisified().then(console.log)   // => .readFile('a.txt' , 'utf-8', (err,data))
+readFilePromisified().then(console.error)
